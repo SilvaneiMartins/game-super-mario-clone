@@ -1,5 +1,5 @@
 <h1 align="center">
-    SUPER MARIO CLONE
+    GAME SUPER MARIO CLONE
     <br />
     Linguagem: C++
     <br />
